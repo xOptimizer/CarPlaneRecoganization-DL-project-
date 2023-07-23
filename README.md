@@ -26,7 +26,7 @@ To set up the project locally, follow these steps:
  - Download all the Python Libraries Required for Machine Learning ![](https://www.geeksforgeeks.org/best-python-libraries-for-machine-learning/)
 
 ## Dataset
-The dataset used for training and evaluation of the model is not included in this repository due to its large size. However, you can obtain a similar dataset from publicly available sources such as Kaggle, ImageNet, or other image repositories. Ensure that the dataset is organized into separate folders for cars and planes, with appropriate train, validation, and test splits.
+The dataset used for training and evaluation of the model is also included in this repository . However, you can also obtain a similar dataset from publicly available sources such as Kaggle, ImageNet, or other image repositories. Ensure that the dataset is organized into separate folders for cars and planes, with appropriate train  and test splits.
 
 ## Model Architecture
 The image recognition model is based on a deep convolutional neural network. It comprises several convolutional layers, activation functions, pooling layers, and fully connected layers. The specific architecture can be found in the code.
@@ -34,7 +34,7 @@ The image recognition model is based on a deep convolutional neural network. It 
 ## Training
 To train the model on your dataset, follow these steps:
 
-Prepare your dataset by organizing it into train, validation, and test sets.
+Prepare your dataset by organizing it into train  and test sets.
 
 Configure the training settings such as batch size, learning rate, and number of epochs in the code.
 
